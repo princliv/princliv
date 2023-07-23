@@ -303,12 +303,12 @@ technologies to meet future requirements.</br>
      <!--<td width="25%" align="center">
 						<span><strong>Arduino</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-					</td>
+					</td>-->
     
      <td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>-->
+					</td>
 					<td width="25%" align="center">
 						<span><strong>Matlab</strong></span><br/>
 						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
