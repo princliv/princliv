@@ -54,7 +54,7 @@ technologies to meet future requirements.</br>
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 <details>
-   <summary>📝 **Resume**</summary>
+   <summary>📝 Resume</summary>
 
  ## Education
  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
