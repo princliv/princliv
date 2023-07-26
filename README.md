@@ -36,7 +36,7 @@ I am an intermediate web developer, graphic and Adobe designer working for the p
 technologies to meet future requirements.</br>
 
 
-### `My Reseach Interest`:
+### `My Reseach Interest:`
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
 
 - Outlying Aspect Mining
@@ -45,7 +45,7 @@ technologies to meet future requirements.</br>
 - Anomaly Detection
 - Similarity Measure
 
- ### `I am open to`:
+ ### `I am open to:`
 
 
 - any collobration work,
@@ -54,7 +54,7 @@ technologies to meet future requirements.</br>
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 <details>
-   <summary>## **📝 Resume**</summary>
+   <summary> **`📝 Resume`**</summary>
 
  ## Education
  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
