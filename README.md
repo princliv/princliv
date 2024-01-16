@@ -28,9 +28,9 @@ I am an intermediate web developer, graphic and Adobe designer working for the p
 
 - 🌱 I’m currently in love with <b>Cyber Security & IoT(Internet Of Things</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Cyber Security**, **Cloud Computing** and **Internet Of Things**
+- 💬 Ask me about **Web Development** , **Cyber Security** and **Internet Of Things**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **ankitkumar1990asap@gmail.com** && **itzprincliv@gmail.com**
+- 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
