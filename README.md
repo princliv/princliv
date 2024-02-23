@@ -30,6 +30,7 @@ I am an intermediate web developer, graphic and Adobe designer working for the p
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Cyber Security** and **Internet Of Things**
 - 👯 I’m looking to collaborate on **Open Source Projects**
+- ✨ Currently intern at **Uma Robotics, IIT Roorkee**
 - 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
@@ -318,7 +319,6 @@ technologies to meet future requirements.</br>
 		</table>
 	</center>
 
-   ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
 
 <p align = "center">
 
