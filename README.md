@@ -143,10 +143,10 @@ technologies to meet future requirements.</br>
 						<span><strong>Wordpress</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
 					</td>
-					<!--<td align="center">
+					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>-->
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+					</td>
 					<td align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
