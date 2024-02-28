@@ -144,7 +144,7 @@ technologies to meet future requirements.</br>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
 					</td>
 					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
+						<span><strong>NodeJS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 					</td>
 					<td align="center">
@@ -175,12 +175,11 @@ technologies to meet future requirements.</br>
 					<td width="25%" align="center">
 						<span><strong>MySql</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-					</td><!--
-					<td width="25%" align="center">
-						<span><strong>Hive</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
 					</td>
-					-->
+					<td width="25%" align="center">
+						<span><strong>Mongo DB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
