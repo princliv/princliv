@@ -180,6 +180,10 @@ technologies to meet future requirements.</br>
 						<span><strong>Mongo DB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
+					<td width="25%" align="center">
+						<span><strong>Mongo DB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
