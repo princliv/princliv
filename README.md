@@ -4,10 +4,7 @@
 
 # <p align="center">👋Hi there, I'm [Ankit Kumar](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-I am an intermediate web developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am an intermediate web and app developer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 - 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering](https://www.rceroorkee.in/)-Roorkee. )}
@@ -75,22 +72,22 @@ technologies to meet future requirements.</br>
    
    
    
- ## Experience
+ ## Experience 
+ -  👨‍💻 **Technical Department**-------------< Internship >\
+    📆 jan,2024 - moment
+    📍 **Uma Robotics** - Tides, IIT Roorkee, India
+
+ -  👨‍💻 **App Development**------------------------------------------< Internship >\
+    📆 aug,2023 - sept,2023
+    📍 **Bharat Intern**
+
+ -  👨‍💻 **Cyber Security**----------------------< Internship >\
+    📆 june,2022 - july,2023 (6 Weeks)
+    📍 **IBM Skillsbuild**
+
  -  👨‍💻 **Web Development**------------------------< Training >\
-    📆 sept,2021 - moment\
+    📆 sept,2021 - nov,2021
     📍 **Intershala** - Roorkee, India
-   
- <!---  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-    📆 Feb,2022 - moment\
-    📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-    📆 Oct,2020 - moment\
-    📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-    📆 Dec,2019 - Jun,2020\
-    📍 **Internshala** - Roorkee, India-->
 
    </details>
 
@@ -342,3 +339,6 @@ technologies to meet future requirements.</br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
