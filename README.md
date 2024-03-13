@@ -4,6 +4,9 @@
 
 # <p align="center">👋Hi there, I'm [Ankit Kumar](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
+<center>### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)</center>
+
 I am an intermediate web developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
@@ -336,9 +339,6 @@ technologies to meet future requirements.</br>
 ![](https://github-readme-stats.vercel.app/api?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=black&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=flat&combine_all_yearly_contributions=true)
