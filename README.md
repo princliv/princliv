@@ -77,15 +77,15 @@ technologies to meet future requirements.</br>
     📆 jan,2024 - moment
     📍 **Uma Robotics** - Tides, IIT Roorkee, India
 
- -  👨‍💻 **App Development**------------------------------------------< Internship >\
+ -  👨‍💻 **App Development**------------------< Internship >\
     📆 aug,2023 - sept,2023
     📍 **Bharat Intern**
 
- -  👨‍💻 **Cyber Security**----------------------< Internship >\
+ -  👨‍💻 **Cyber Security**-------------------< Internship >\
     📆 june,2022 - july,2023 (6 Weeks)
     📍 **IBM Skillsbuild**
 
- -  👨‍💻 **Web Development**------------------------< Training >\
+ -  👨‍💻 **Web Development**------------------< Training >\
     📆 sept,2021 - nov,2021
     📍 **Intershala** - Roorkee, India
 
