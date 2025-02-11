@@ -26,11 +26,11 @@ I am an intermediate web and app developer working for the past few years. I am 
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)-->
 
-- 🌱 I’m currently in love with <b>Cyber Security & IoT(Internet Of Things</b>
+- 🌱 I’m currently in love with <b>Application Development & Full Stack</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Cyber Security** and **Internet Of Things**
+- 💬 Ask me about **Web Development** , **Cyber Security** and **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- ✨ Currently intern at **Uma Robotics, IIT Roorkee**
+- ✨ Intern at **Uma Robotics, IIT Roorkee**
 - 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
@@ -40,9 +40,8 @@ technologies to meet future requirements.</br>
 ### `My Reseach Interest:`
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
 
-- Outlying Aspect Mining
+- AI
 - Classification
-- Clustering
 - Anomaly Detection
 - Similarity Measure
 
@@ -73,8 +72,12 @@ technologies to meet future requirements.</br>
    
    
  ## Experience 
+  -  👨‍💻 **Android Application Development**-------------< Internship >\
+     📆 apr,2024 - may,2024\
+     📍 **Uma Robotics** - Tides, IIT Roorkee, India
+
  -  👨‍💻 **Technical Department**-------------< Internship >\
-    📆 jan,2024 - moment\
+    📆 jan,2024 - Apr,2024\
     📍 **Uma Robotics** - Tides, IIT Roorkee, India
 
  -  👨‍💻 **App Development**------------------< Internship >\
