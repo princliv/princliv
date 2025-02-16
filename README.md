@@ -4,7 +4,7 @@
 
 # <p align="center">👋Hi there, I'm [Ankit Kumar](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate web and app developer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am a proficient software developer with expertise in web and mobile app development, specializing in React Native, Node.js, Firebase, and data analytics. Passionate about building innovative digital solutions, I enjoy tackling challenges that push me to learn and grow. My objective is to develop impactful applications with seamless functionality, elegant design, and data-driven insights. With a strong foundation in full-stack development, cybersecurity, and analytics, I am always eager to work on exciting projects with like-minded, creative individuals.
 
 
 - 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering](https://www.rceroorkee.in/)-Roorkee. )}
