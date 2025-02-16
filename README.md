@@ -9,7 +9,7 @@ I am an intermediate web and app developer working for the past few years. I am 
 
 - 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering](https://www.rceroorkee.in/)-Roorkee. )}
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
+- 👨🏽‍💻 {( Currently growing my skillset in Software Development and Data Analytics. )}
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princliv&label=Profile%20views&color=32CD32&style=flat" alt="princliv" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -26,9 +26,9 @@ I am an intermediate web and app developer working for the past few years. I am 
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)-->
 
-- 🌱 I’m currently in love with <b>Application Development & Full Stack</b>
+- 🌱 I’m currently in love with <b>Application Development, Full Stack & Data Analytics</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Cyber Security** and **Full Stack Development**
+- 💬 Ask me about **Data Analytics** , **Cyber Security** and **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ✨ Intern at **Uma Robotics, IIT Roorkee**
 - 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
@@ -46,7 +46,6 @@ technologies to meet future requirements.</br>
 - Similarity Measure
 
  ### `I am open to:`
-
 
 - any collobration work,
 - machine learning projects(development or research),
@@ -74,7 +73,7 @@ technologies to meet future requirements.</br>
  ## Experience 
   -  👨‍💻 **Android Application Development**-------------< Internship >\
      📆 apr,2024 - may,2024\
-     📍 **Uma Robotics** - Tides, IIT Roorkee, India
+     📍 **Google for Developer**
 
  -  👨‍💻 **Technical Department**-------------< Internship >\
     📆 jan,2024 - Apr,2024\
