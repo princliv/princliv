@@ -325,7 +325,7 @@ technologies to meet future requirements.</br>
 					</td>
 					<td width="25%" align="center">
 						<span><strong>PowerBI</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_powerbi/pocoo_powerbi-icon.svg">
+						<img height="64px" width="64px" src="https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/microsoft-power-bi.svg">
 					</td>
 				</tr>
 			</tbody>
