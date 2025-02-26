@@ -319,6 +319,14 @@ technologies to meet future requirements.</br>
 						<span><strong>Matlab</strong></span><br/>
 						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 					</td>
+       <td width="25%" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>PowerBI</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
