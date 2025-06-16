@@ -323,24 +323,42 @@ technologies to meet future requirements.</br>
 	</center>
 
 
-<p align = "center">
+## 📈 GitHub Stats
 
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/princliv)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/princliv)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ankitku1990asap) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankit1990asap/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/princliv_)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princliv&theme=radical&show_icons=true&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=radical&hide_border=false" width="45%" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=black&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=radical&layout=compact&hide_border=false" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=flat&combine_all_yearly_contributions=true)
+---
 
-[![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark)](https://github.com/princliv)
+## 📊 Activity Graph
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark" />
+</p>
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.kaggle.com/princliv"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://github.com/princliv"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/ankitku1990asap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankit1990asap/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/princliv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
