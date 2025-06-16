@@ -173,7 +173,7 @@
 			</tbody>
 		</table>
 	</center>
-<!--- **web Hosting Platforms**
+- **web Hosting Platforms**
 	<center>
 		<table>
 			<tbody>
