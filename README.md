@@ -198,7 +198,7 @@
 				</tr>
 			</tbody>
 		</table>
-	</center>-->
+	</center>
 - **AI/ML**
 	<center>
 		<table>
