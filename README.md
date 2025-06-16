@@ -1,8 +1,7 @@
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="300"/>
-</p>
+![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit1990asap/">Ankit Kumar</a> 👋</h1>
 
