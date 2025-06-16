@@ -191,10 +191,10 @@
 						<span><strong>Github pages</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
 					</td>
-					     <td width="25%" align="center">
-  <span><strong>Vercel</strong></span><br/>
-  <img height="64px" width="64px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png">
-</td>
+					<td width="25%" align="center">
+  						<span><strong>Vercel</strong></span><br/>
+ 						<img height="64px" width="64px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png">
+					</td>
 				</tr>
 			</tbody>
 		</table>
