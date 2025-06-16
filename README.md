@@ -20,13 +20,6 @@ I am a proficient software developer with expertise in web and mobile app develo
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/princliv)
 [![GoogleForDevelopers](https://img.shields.io/badge/-Google-white?style=flat&amp;labelColor=black&amp;logo=google&amp;logoColor=white)](https://g.dev/ankitkumar_hu)
 [![MicrosoftLearn](https://img.shields.io/badge/-Microsoft-blue?style=flat&amp;labelColor=white&amp;logo=microsoft&amp;logoColor=blue)](https://learn.microsoft.com/en-us/users/princliv/)
-<!--[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)-->
 
 - 🌱 I’m currently in love with <b>Application Development, Full Stack & Data Analytics</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
@@ -96,263 +89,114 @@ technologies to meet future requirements.</br>
    </details>
 
 
-## 🎓Tools and Technologies:
-- **Programming Languages**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>C</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>C</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-					<td align="center">
-						<span><strong>Android</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Wordpress</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>NodeJS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td><!--
-					<td  align="center">
-						<span><strong>Wix</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
-					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
-					</td>-->
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Databases**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>MySql</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Mongo DB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Firebase</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-<!--- **web Hosting Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Heroku</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Netlify</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Github pages</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-					</td>
-					     <td width="25%" align="center">
-						<span><strong>Vercel</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>-->
-- **AI/ML**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Tensorflow</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>OpenCV</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>pandas</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>PyTorch</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>NumPy</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Designing Softwares:**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Figma</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Canva</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-					</td>
-					</tr>
-			</tbody>
-		</table>
-	</center>
-- **Cloud Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>IBM</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>AWS</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Azure</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Others**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Linux</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>git</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>github</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>Bitbucket</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
-					</td>
+## 🚀 Tools & Technologies
 
-     <!--<td width="25%" align="center">
-						<span><strong>Arduino</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-					</td>-->
-    
-     <td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Matlab</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-					</td>
-       <td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>PowerBI</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/microsoft-power-bi.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/princliv)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/princliv)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ankitku1990asap) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankit1990asap/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/princliv_)
+### 🧠 Programming Languages  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="50" title="Python" />
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="50" title="Java" />
+  <img src="https://cdn.svgporn.com/logos/c.svg" width="50" title="C" />
+  <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="50" title="C++" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=black&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Development  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" title="HTML5" />
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" title="CSS3" />
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" title="JavaScript" />
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="50" title="ReactJS" />
+  <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50" title="NodeJS" />
+  <img src="https://cdn.svgporn.com/logos/android-icon.svg" width="50" title="Android" />
+  <img src="https://cdn.svgporn.com/logos/wordpress.svg" width="50" title="WordPress" />
+  <img src="https://cdn.svgporn.com/logos/wix.svg" width="50" title="Wix" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 🗃️ Databases  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="90" title="MySQL" />
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50" title="MongoDB" />
+  <img src="https://cdn.svgporn.com/logos/firebase.svg" width="50" title="Firebase" />
+</p>
 
-[![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark)](https://github.com/princliv)
+### ☁️ Hosting & Deployment  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/heroku.svg" width="50" title="Heroku" />
+  <img src="https://cdn.svgporn.com/logos/netlify.svg" width="50" title="Netlify" />
+  <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="50" title="GitHub Pages" />
+  <img src="https://cdn.svgporn.com/logos/vercel-icon.svg" width="50" title="Vercel" />
+</p>
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### 🤖 AI/ML  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="90" title="TensorFlow" />
+  <img src="https://cdn.svgporn.com/logos/opencv.svg" width="50" title="OpenCV" />
+  <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="50" title="pandas" />
+  <img src="https://cdn.svgporn.com/logos/pytorch-icon.svg" width="50" title="PyTorch" />
+  <img src="https://cdn.svgporn.com/logos/numpy-icon.svg" width="50" title="NumPy" />
+</p>
+
+### 🎨 Designing Tools  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/figma.svg" width="50" title="Figma" />
+  <img src="https://cdn.svgporn.com/logos/canva-icon.svg" width="50" title="Canva" />
+</p>
+
+### 🌐 Cloud Platforms  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/ibm_cloud-icon.svg" width="50" title="IBM Cloud" />
+  <img src="https://cdn.svgporn.com/logos/amazon_aws-icon.svg" width="50" title="AWS" />
+  <img src="https://cdn.svgporn.com/logos/microsoft_azure-icon.svg" width="50" title="Azure" />
+</p>
+
+### ⚙️ Other Tools  
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/linux-icon.svg" width="50" title="Linux" />
+  <img src="https://cdn.svgporn.com/logos/git-scm-icon.svg" width="50" title="Git" />
+  <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="50" title="GitHub" />
+  <img src="https://cdn.svgporn.com/logos/bitbucket-icon.svg" width="50" title="Bitbucket" />
+  <img src="https://cdn.svgporn.com/logos/pocoo_flask-icon.svg" width="50" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB" />
+  <img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" width="50" title="Power BI" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princliv&theme=radical&show_icons=true&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=radical&hide_border=false" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=radical&layout=compact&hide_border=false" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark" />
+</p>
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.kaggle.com/princliv"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://github.com/princliv"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/ankitku1990asap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankit1990asap/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/princliv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
