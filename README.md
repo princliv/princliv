@@ -25,10 +25,10 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/princliv/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
+[![Unstop](https://img.shields.io/badge/-Unstop-0078D4?style=flat&logo=hackthebox&logoColor=white)](https://unstop.com/u/princliv)
 [![Coding Ninjas](https://img.shields.io/badge/-CodingNinjas-EF6C00?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/princliv)
 [![Google Developer](https://img.shields.io/badge/-Google-black?style=flat&logo=google&logoColor=white)](https://g.dev/ankitkumar_hu)
 [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/princliv/)
-[![Unstop](https://img.shields.io/badge/-Unstop-3C3C3B?style=flat&logo=hackthebox&logoColor=white)](https://unstop.com/u/princliv)
 
 
 ---
