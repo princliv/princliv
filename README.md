@@ -1,93 +1,88 @@
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
 
-![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="300"/>
+</p>
 
-# <p align="center">👋Hi there, I'm [Ankit Kumar](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit1990asap/">Ankit Kumar</a> 👋</h1>
 
-I am a proficient software developer with expertise in web and mobile app development, specializing in React Native, Node.js, Firebase, and data analytics. Passionate about building innovative digital solutions, I enjoy tackling challenges that push me to learn and grow. My objective is to develop impactful applications with seamless functionality, elegant design, and data-driven insights. With a strong foundation in full-stack development, cybersecurity, and analytics, I am always eager to work on exciting projects with like-minded, creative individuals.
+<p align="center">
+  A passionate full-stack and mobile app developer | React Native & Firebase Enthusiast | Cybersecurity Aware | Data Analytics Explorer
+</p>
 
+---
 
-- 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering](https://www.rceroorkee.in/)-Roorkee. )}
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in Software Development and Data Analytics. )}
+### 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princliv&label=Profile%20views&color=32CD32&style=flat" alt="princliv" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at [Roorkee College of Engineering](https://www.rceroorkee.in/)
+- 💡 Curious by nature — I always strive to find unique perspectives and hidden possibilities.
+- 💻 Passionate about building impactful solutions using **React Native, Node.js, Firebase, and Data Analytics**
+- 🔍 Exploring new technologies including **AI**, **Web3**, and **Cybersecurity**
+- 🤝 Actively seeking **collaborations**, **open-source contributions**, and **research opportunities**
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/princliv/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/princliv)
-[![GoogleForDevelopers](https://img.shields.io/badge/-Google-white?style=flat&amp;labelColor=black&amp;logo=google&amp;logoColor=white)](https://g.dev/ankitkumar_hu)
-[![MicrosoftLearn](https://img.shields.io/badge/-Microsoft-blue?style=flat&amp;labelColor=white&amp;logo=microsoft&amp;logoColor=blue)](https://learn.microsoft.com/en-us/users/princliv/)
+---
 
-- 🌱 I’m currently in love with <b>Application Development, Full Stack & Data Analytics</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Data Analytics** , **Cyber Security** and **Full Stack Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ✨ Intern at **Uma Robotics, IIT Roorkee**
-- 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
+### 📊 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/princliv/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
+[![Coding Ninjas](https://img.shields.io/badge/-CodingNinjas-EF6C00?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/princliv)
+[![Google Developer](https://img.shields.io/badge/-Google-black?style=flat&logo=google&logoColor=white)](https://g.dev/ankitkumar_hu)
+[![Microsoft Learn](https://img.shields.io/badge/-Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/princliv/)
 
-### `My Reseach Interest:`
-<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
+---
 
-- AI
-- Classification
-- Anomaly Detection
-- Similarity Measure
+### 💼 Experience
 
- ### `I am open to:`
+| Role | Organization | Duration |
+|------|--------------|----------|
+| **Android App Intern** | Google for Developers | Apr 2024 – May 2024 |
+| **SDE Intern (Technical Dept.)** | Uma Robotics, IIT Roorkee | Jan 2024 – Apr 2024 |
+| **App Dev Intern** | Bharat Intern | Aug 2023 – Sep 2023 |
+| **Cybersecurity Intern** | IBM SkillsBuild | Jun 2022 – Jul 2023 |
+| **Web Dev Trainee** | Internshala | Sep 2021 – Nov 2021 |
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+---
 
-<details>
-   <summary>📝 Resume</summary>
+### 🎓 Education
 
- ## Education
- <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+- 📍 **Uttarakhand Technical University, Dehradun** (2021–2025)  
+  🧑‍🎓 B.Tech, Computer Science and Engineering
 
-  - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
-   📖**Bechelor In Technology-< Computer Science And Engineering >**
+- 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** (2018–2020)  
+  📘 Senior Secondary (Science Stream)
 
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2018-2020 >\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2013-2018 >\
-   📖**Secondary Schooling**
- 
-   
-   
-   
- ## Experience 
-  -  👨‍💻 **Android Application Development**-------------< Internship >\
-     📆 apr,2024 - may,2024\
-     📍 **Google for Developer**
+- 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** (2013–2018)  
+  📘 Secondary Schooling
 
- -  👨‍💻 **Technical Department**-------------< Internship >\
-    📆 jan,2024 - Apr,2024\
-    📍 **Uma Robotics** - Tides, IIT Roorkee, India
+---
 
- -  👨‍💻 **App Development**------------------< Internship >\
-    📆 aug,2023 - sept,2023\
-    📍 **Bharat Intern**
+### 🧠 Research Interests
 
- -  👨‍💻 **Cyber Security**-------------------< Internship >\
-    📆 june,2022 - july,2023 (6 Weeks)\
-    📍 **IBM Skillsbuild**
+- Artificial Intelligence  
+- Classification & Anomaly Detection  
+- Similarity Measures  
+- AI-Powered Mental Health Monitoring
 
- -  👨‍💻 **Web Development**------------------< Training >\
-    📆 sept,2021 - nov,2021\
-    📍 **Intershala** - Roorkee, India
+---
 
-   </details>
+### 🤝 Open To
 
+- 💡 Collaboration on machine learning or web/app development projects  
+- 🔍 Research internships and publications  
+- 🧾 Serving as reviewer or PC member for AI/ML/Data Mining journals or conferences
+
+---
+
+### 📫 Get In Touch
+
+- 📩 Email: [ankitkumar1990asap@gmail.com](mailto:ankitkumar1990asap@gmail.com) | [itzprincliv@gmail.com](mailto:itzprincliv@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/ankit1990asap](https://www.linkedin.com/in/ankit1990asap/)
+- 🌍 Fun Fact: I love designing interfaces and traveling to explore new cultures and perspectives.
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="300"/>
+</p>
 
 ## 🎓Tools and Technologies:
 - **Programming Languages**
