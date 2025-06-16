@@ -143,19 +143,11 @@
 					<td align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td><!--
+					</td>
 					<td  align="center">
 						<span><strong>Wix</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
 					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
-					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
-					</td>-->
 				</tr>
 			</tbody>
 		</table>
