@@ -9,6 +9,9 @@
   A passionate full-stack and mobile app developer | React Native & Firebase Enthusiast | Cybersecurity Aware | Data Analytics Explorer
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=princliv&label=Profile%20views&color=32CD32&style=flat" alt="princliv" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 ---
 
 ### 🚀 About Me
