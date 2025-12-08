@@ -39,6 +39,7 @@
 
 | Role | Organization | Duration |
 |------|--------------|----------|
+| **Software Developer** | Creditor Academy | May 2025 - Present |
 | **Android App Intern** | Google for Developers | Apr 2024 – May 2024 |
 | **SDE Intern (Technical Dept.)** | Uma Robotics, IIT Roorkee | Jan 2024 – Apr 2024 |
 | **App Dev Intern** | Bharat Intern | Aug 2023 – Sep 2023 |
