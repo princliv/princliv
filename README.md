@@ -70,15 +70,36 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 ---
 
 ### 🌐 Web & App Development
-| HTML | CSS | JS | React | Node | RN | Flutter | Android |
-|-----|-----|----|------|------|----|---------|---------|
-| <img src="https://cdn.svgporn.com/logos/html-5.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/flutter.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/android-icon.svg" width="48" height="48"> |
+| HTML | CSS | JS | React | Node | RN | Flutter | Android | Wordpress | TypeScript | Wix |
+|-----|-----|----|------|------|----|---------|---------|----------|-----------|----|
+| <img src="https://cdn.svgporn.com/logos/html-5.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/flutter.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/android-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48"> | <img src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" width="48" height="48"> |
+
+---
+
+### 🫙 Database
+| MySQL | MongoDB | Firebase |
+|------|--------|---------|
+| <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/firebase.svg" width="48" height="48"> |
+
+---
+
+### 🫙 AI/ML
+| Tensorflow | OpenCV | Pandas | PyTorch | NumPy |
+|-----------|-------|-------|--------|------|
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48"> |
+
+---
+
+### 🎨 UI / UX Designing
+| Figma | Canva |
+|------|------|
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="48" height="48"> |
 
 ---
 
 ### ☁️ Cloud & Hosting
-| AWS | Azure | IBM | Vercel | Netlify | GitHub Pages | Hostinger | GoDaddy |
-|----|-------|-----|--------|----------|--------------|-----------|---------|
+| AWS | Azure | IBM | Vercel | Netlify | GitHub | Hostinger | GoDaddy |
+|----|-------|-----|--------|----------|-------|-----------|---------|
 | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="48" height="48"> | <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1QGf0a0sqd7JR-GzuOdxLudy6vqmoVgPC" width="48" height="48"> |  <img src="https://drive.google.com/uc?export=view&id=1yRs82ZvciuNdwCmUsUB9Yz5IzKhsNd_c" width="48" height="48"> |
 
 ---
