@@ -34,6 +34,8 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 - 🔐 **Security-aware developer** with practical exposure
 - 🧩 Focused on **clean architecture, scalability, and performance**
 - 🤝 Open to **entry-level roles, collaborations, and research**
+- ⚡ Fun fact: I love designing and travelling to explore new places.
+- ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements.
 
 ---
 
@@ -75,16 +77,16 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 ---
 
 ### ☁️ Cloud & Hosting
-| AWS | Azure | IBM | Vercel | Netlify | GitHub Pages | Hostinger |
-|----|-------|-----|--------|----------|--------------|-----------|
-| <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="48" height="48"> | <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1QGf0a0sqd7JR-GzuOdxLudy6vqmoVgPC" width="48" height="48"> |
+| AWS | Azure | IBM | Vercel | Netlify | GitHub Pages | Hostinger | GoDaddy |
+|----|-------|-----|--------|----------|--------------|-----------|---------|
+| <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="48" height="48"> | <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1QGf0a0sqd7JR-GzuOdxLudy6vqmoVgPC" width="48" height="48"> |  <img src="https://drive.google.com/uc?export=view&id=1yRs82ZvciuNdwCmUsUB9Yz5IzKhsNd_c" width="48" height="48"> |
 
 ---
 
-### 📈 Analytics & Tracking (UPDATED WITH YOUR ICONS)
-| GA4 | GTM | Microsoft Clarity | Google Search Console | GoDaddy |
-|----|----|------------------|----------------------|---------|
-| <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1YmnEihsqAXplMpjSAvX82qcZjBXcT3Yl" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1r9UlOq5pLssFa0j84RhZi7QdL-UF797D" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1Jcn9ktCbghEOdRJXjlQYy8BHe3yhdhsN" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1yRs82ZvciuNdwCmUsUB9Yz5IzKhsNd_c" width="48" height="48"> |
+### 📈 Analytics & Tracking
+| GA4 | GTM | Microsoft Clarity | GSC |
+|----|----|------------------|----|
+| <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1YmnEihsqAXplMpjSAvX82qcZjBXcT3Yl" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1r9UlOq5pLssFa0j84RhZi7QdL-UF797D" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1Jcn9ktCbghEOdRJXjlQYy8BHe3yhdhsN" width="48" height="48"> |
 
 ---
 
