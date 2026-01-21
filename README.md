@@ -44,7 +44,7 @@
 
 ## 🎓 Education
 
-- **B.Tech – Computer Science & Engineering**  
+- **B.Tech (Honours) – Computer Science & Engineering**  
   Uttarakhand Technical University (2021 – 2025)
 
 - **Senior Secondary (Science)**  
@@ -82,7 +82,7 @@
 
 | Python | Java | C | C++ |
 |------|------|---|-----|
-| <img src="https://cdn.svgporn.com/logos/python.svg"> | <img src="https://cdn.svgporn.com/logos/java.svg"> | <img src="https://cdn.svgporn.com/logos/c.svg"> | <img src="https://cdn.svgporn.com/logos/c-plusplus.svg"> |
+| <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/java.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/c.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="48" height="48"> |
 
 ---
 
@@ -90,7 +90,7 @@
 
 | HTML | CSS | JavaScript | React | Node.js | React Native | Flutter | Android |
 |-----|-----|------------|-------|---------|--------------|---------|---------|
-| <img src="https://cdn.svgporn.com/logos/html-5.svg"> | <img src="https://cdn.svgporn.com/logos/css-3.svg"> | <img src="https://cdn.svgporn.com/logos/javascript.svg"> | <img src="https://cdn.svgporn.com/logos/react.svg"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg"> | <img src="https://cdn.svgporn.com/logos/react.svg"> | <img src="https://cdn.svgporn.com/logos/flutter.svg"> | <img src="https://cdn.svgporn.com/logos/android-icon.svg"> |
+| <img src="https://cdn.svgporn.com/logos/html-5.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/flutter.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/android-icon.svg" width="48" height="48"> |
 
 ---
 
@@ -98,7 +98,7 @@
 
 | MySQL | MongoDB | Firebase |
 |------|---------|----------|
-| <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> | <img src="https://cdn.svgporn.com/logos/mongodb.svg"> | <img src="https://cdn.svgporn.com/logos/firebase.svg"> |
+| <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/firebase.svg" width="48" height="48"> |
 
 ---
 
@@ -106,7 +106,7 @@
 
 | AWS | Azure | IBM Cloud | Vercel | Netlify | GitHub Pages | Hostinger |
 |----|-------|-----------|--------|---------|---------------|-----------|
-| <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg"> | <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png"> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg"> |
+| <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="48" height="48"> | <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" width="48" height="48"> |
 
 ---
 
@@ -114,7 +114,7 @@
 
 | GA4 | Google Tag Manager | Microsoft Clarity | Google Search Console |
 |----|--------------------|------------------|-----------------------|
-| <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/microsoft_clarity/microsoft_clarity-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg"> |
+| <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/microsoft_clarity/microsoft_clarity-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" width="48" height="48"> |
 
 ---
 
@@ -122,7 +122,7 @@
 
 | TensorFlow | PyTorch | OpenCV | Pandas | NumPy |
 |-----------|---------|--------|--------|-------|
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> | <img src="https://cdn.svgporn.com/logos/pandas-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"> |
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"> | <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48"> |
 
 ---
 
@@ -130,9 +130,8 @@
 
 | Figma | Canva | Power BI | MATLAB |
 |-------|-------|----------|--------|
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"> | <img src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-power-bi.svg"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="48" height="48"> | <img src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-power-bi.svg" width="48" height="48"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="48" height="48"> |
 
----
 
 ## 📈 GitHub Stats
 
