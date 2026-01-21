@@ -1,6 +1,7 @@
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
 
-![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<!--![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)-->
+<img width="4000" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b859a6b0-5fc2-431a-a27b-f05a91a3fd26" />
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit1990asap/">Ankit Kumar</a> 👋</h1>
 
