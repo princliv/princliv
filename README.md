@@ -84,8 +84,8 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 ---
 
 ### 📈 Analytics & Tracking
-| GA4 | GTM | Microsoft Clarity | GSC |
-|----|----|------------------|----|
+| GA4 | GTM | Clarity | GSC |
+|----|----|--------|----|
 | <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1YmnEihsqAXplMpjSAvX82qcZjBXcT3Yl" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1r9UlOq5pLssFa0j84RhZi7QdL-UF797D" width="48" height="48"> | <img src="https://drive.google.com/uc?export=view&id=1Jcn9ktCbghEOdRJXjlQYy8BHe3yhdhsN" width="48" height="48"> |
 
 ---
