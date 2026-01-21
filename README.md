@@ -18,13 +18,21 @@
 
 ---
 
+### Professional Summary
+
+Aspiring **Software Developer** with hands-on experience in building **scalable web and mobile applications**. Passionate about delivering **high-performance, secure, and user-centric solutions**. Actively seeking **entry-level or early-career opportunities** to contribute to real-world products while strengthening expertise in **full-stack and mobile development**. Proficient in **React Native, Node.js, Firebase, and MongoDB**, with strong experience in **Android/iOS app development** and **seamless backend integration**.
+
+---
+
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
-- 💼 Software Developer @ **Creditor Academy**
-- 📊 Analytics-first development mindset
-- 🔐 Security-aware engineer
-- 🤝 Open to collaborations & research
+- 🎓 **B.Tech (Honours) in Computer Science & Engineering** — Completed  
+- 💼 **Software Developer @ Creditor Academy**
+- ⚙️ Expertise in **full-stack & mobile application development**
+- 📊 **Analytics-driven** and data-informed engineering mindset
+- 🔐 **Security-aware developer** with practical exposure
+- 🧩 Focused on **clean architecture, scalability, and performance**
+- 🤝 Open to **entry-level roles, collaborations, and research**
 
 ---
 
