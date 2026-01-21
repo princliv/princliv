@@ -26,8 +26,8 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech (Honours) in Computer Science & Engineering** — Completed  
 - 💼 **Software Developer @ Creditor Academy**
+- 🎓 **B.Tech (Honours) in Computer Science & Engineering**  
 - ⚙️ Expertise in **full-stack & mobile application development**
 - 📊 **Analytics-driven** and data-informed engineering mindset
 - 🔐 **Security-aware developer** with practical exposure
