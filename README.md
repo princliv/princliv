@@ -112,9 +112,9 @@ Aspiring **Software Developer** with hands-on experience in building **scalable 
 ---
 
 ### 📈 Platforms
-| Linux | Git | GitHub | Flask | PowerBI |
-|------|----|-------|------|--------|
-| <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48"> | <img src="https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/microsoft-power-bi.svg" width="48" height="48"> |
+| Linux | Git | GitHub | PowerBI |
+|------|----|-------|--------|
+| <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"> | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48"> | <img src="https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/microsoft-power-bi.svg" width="48" height="48"> |
 
 ---
 
