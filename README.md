@@ -86,16 +86,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princliv&theme=radical" width="45%" />
 </p>
 
----
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princliv&theme=radical&layout=compact&hide_border=false" width="45%" /> 
+  <img src="https://github-contributor-stats.vercel.app/api?username=princliv&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%" /> 
+</p> 
 
-## 🤝 Let’s Connect
+--- 
 
-<p align="center">
-  <a href="mailto:ankitkumar1990asap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ankit1990asap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/princliv"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 📊 Activity Graph 
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="280" />
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark" /> 
+</p> 
+
+--- 
+
+## ✍️ Quote of the Day 
+
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /> 
+</p> 
+
+--- 
+
+## 🤝 Let's Connect 
+<p align="center"> 
+  <a href="https://www.kaggle.com/princliv"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a> 
+  <a href="https://github.com/princliv"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://twitter.com/ankitku1990asap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/ankit1990asap/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://instagram.com/princliv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
