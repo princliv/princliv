@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit1990asap/">Ankit Kumar</a> 👋</h1>
 
 <p align="center">
-  Software Developement Engineer | Full-Stack & Mobile App Engineer | Analytics-Driven | Security-Aware
+  Software Development Engineer | Full-Stack & Mobile App Engineer | Analytics-Driven | Security-Aware
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### Professional Summary
 
-**Software Developement Engineer** with hands-on experience in building **scalable web and mobile applications**. Passionate about delivering **high-performance, secure, and user-centric solutions**. Actively seeking **entry-level or early-career opportunities** to contribute to real-world products while strengthening expertise in **full-stack and mobile development**. Proficient in **React Native, Node.js, Firebase, and MongoDB**, with strong experience in **Android/iOS app development** and **seamless backend integration**.
+**Software Development Engineer** with hands-on experience in building **scalable web and mobile applications**. Passionate about delivering **high-performance, secure, and user-centric solutions**. Actively seeking **entry-level or early-career opportunities** to contribute to real-world products while strengthening expertise in **full-stack and mobile development**. Proficient in **React Native, Node.js, Firebase, and MongoDB**, with strong experience in **Android/iOS app development** and **seamless backend integration**.
 
 ---
 
