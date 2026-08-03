@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Software Developer @ Creditor Academy**
+- 💼 **Software Developer @ Athena LMS**
 - 🎓 **B.Tech (Honours) in Computer Science & Engineering**  
 - ⚙️ Expertise in **full-stack & mobile application development**
 - 📊 **Analytics-driven** and data-informed engineering mindset
