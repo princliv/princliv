@@ -43,7 +43,7 @@
 
 | Role | Organization | Duration |
 |-----|-------------|----------|
-| **Software Developer** | Creditor Academy | May 2025 – Present |
+| **Software Developer** | Athena LMS | May 2025 – Present |
 | **Android Developer Intern** | Google for Developers | Apr 2024 – May 2024 |
 | **SDE Intern** | Uma Robotics (IIT Roorkee) | Jan 2024 – Apr 2024 |
 | **Cybersecurity Intern** | IBM SkillsBuild | Jun 2022 – Jul 2023 |
