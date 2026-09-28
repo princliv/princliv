@@ -137,6 +137,9 @@
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=princliv&theme=react-dark" /> 
 </p> 
+<p align="center">
+  <img width="60%" src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 --- 
 
